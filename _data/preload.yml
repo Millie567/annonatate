@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-11-14 11:45:26.101684'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068
+  user: Millie567
 settings: {}
 version: '2.1'
