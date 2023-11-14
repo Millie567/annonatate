@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/2"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Beautiful marbled paper!",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Millie567",
+                "name": "Millie567"
+            },
+            "created": "2023-11-14T11:47:04.680Z",
+            "modified": "2023-11-14T11:47:25.211Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/2",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2318.7156982421875\" cy=\"6622.055419921875\" rx=\"157.3170166015625\" ry=\"451.431396484375\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aca146d6-38ad-41a5-8163-e8588be34f21.json",
+    "motivation": "commenting"
+}
