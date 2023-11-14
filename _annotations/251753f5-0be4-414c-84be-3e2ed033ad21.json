@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/2"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Insignia of John Rylands Library",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Millie567",
+                "name": "Millie567"
+            },
+            "created": "2023-11-14T11:46:24.597Z",
+            "modified": "2023-11-14T11:46:43.838Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/2",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2277.676513671875\" cy=\"3468.875732421875\" rx=\"512.990234375\" ry=\"499.310546875\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "251753f5-0be4-414c-84be-3e2ed033ad21.json",
+    "motivation": "commenting"
+}
