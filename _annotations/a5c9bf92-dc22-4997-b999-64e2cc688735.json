@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/3"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Could this be a watermark?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Millie567",
+                "name": "Millie567"
+            },
+            "created": "2023-11-14T11:48:56.866Z",
+            "modified": "2023-11-14T11:49:08.200Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-CHCR-00068/canvas/3",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"1999.7728271484375\" cy=\"3270.475341796875\" rx=\"266.1812744140625\" ry=\"996.473876953125\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a5c9bf92-dc22-4997-b999-64e2cc688735.json",
+    "motivation": "commenting"
+}
